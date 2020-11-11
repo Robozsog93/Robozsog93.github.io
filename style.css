@@ -1,0 +1,6 @@
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+}
+.fa-twitter-f:before, .fa-twitter:before {
+    content: "\f099";
+}
